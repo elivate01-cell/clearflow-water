@@ -1,0 +1,23 @@
+{
+  "name": "Clearflow Waters",
+  "slug": "clearflow-water",
+  "concept": "Sachet & table water distributor",
+  "category": "small-business",
+  "subcategory": "water-distribution",
+  "description": "Wholesale price board, bulk tiers and delivery-coverage tables for a sachet and table water business in Ikorodu. Built for phone-first ordering.",
+  "design_family": "industrial-utility",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "utility top bar with phone-first ordering",
+    "bulk price tier tables",
+    "delivery coverage grid",
+    "treatment process steps",
+    "native details FAQ",
+    "stacked tables on mobile"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
